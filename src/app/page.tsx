@@ -7,7 +7,7 @@ import Menu from "@/components/menu";
 
 export default function Home() {
   return (
-     <main >
+     <div>
  
   
 <div className="header_container" >
@@ -26,7 +26,7 @@ export default function Home() {
 
 <center><button className="banner_btn"><a href="menu">See More</a></button></center>
 
-</main>
+</div>
 
   );
 }
